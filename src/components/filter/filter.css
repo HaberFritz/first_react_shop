@@ -1,0 +1,23 @@
+.filter{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color:aquamarine;
+    border-radius:20px;
+    margin: 20px 0;
+}
+.filter-search{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+.filter-types{
+
+padding:10px;
+display: flex;
+justify-content:space-around;
+
+
+}

@@ -1,0 +1,21 @@
+.card {
+  background-color: rgb(199, 235, 235);
+  -webkit-box-shadow: 0px 0px 47px 17px rgba(0, 0, 0, 0.34);
+  box-shadow: 0px 0px 47px 17px rgba(0, 0, 0, 0.068);
+  padding: 20px;
+  width: 25%;
+  margin: 20px;
+}
+.card img {
+  width: 70%;
+  height: 60%;
+}
+.card-content {
+  display: flex;
+  justify-content: flex-start;
+}
+.card-content p {
+  padding: 0 5px;
+  font-size: 12px;
+  font-weight: 300;
+}
